@@ -54,6 +54,12 @@ The Random Forest susceptibility model achieved approximately:
 
 Five-fold 50 km spatial block cross-validation produced ROC-AUC values of approximately **0.83–0.87**, providing a more geographically conservative evaluation of model performance.
 
+<p align="center">
+  <img src="figures/model_performance.png"
+       alt="Spatial cross-validationperformance"
+       width="650">
+</p>
+
 The results indicate that the framework is more suitable for identifying areas of elevated wildfire susceptibility than for predicting exact wildfire counts.
 
 ## Community Wildfire Risk
