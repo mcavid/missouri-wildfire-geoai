@@ -66,6 +66,12 @@ The results indicate that the framework is more suitable for identifying areas o
 
 Wildfire susceptibility alone does not capture potential community impacts. The project therefore combines model-derived susceptibility with WUI exposure and population-weighted social vulnerability to construct a Community Wildfire Risk Index.
 
+<p align="center">
+  <img src="figures/community_wildfire_risk.png"
+       alt="Community Wildfire Risk Index map"
+       width="750">
+</p>
+
 This provides a framework for identifying locations where elevated wildfire susceptibility overlaps with human exposure and social vulnerability.
 
 ## Repository Structure
