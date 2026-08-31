@@ -106,12 +106,12 @@ Large raw and processed geospatial datasets are not stored in this repository. S
 
 ## Contributors
 
-**Mehdi Javid**
-Project Supervisor
-UMSL Geospatial Collaborative
-
 **Isabella Garza**
 Research Intern
+UMSL Geospatial Collaborative
+
+**Mehdi Javid**
+Project Supervisor
 UMSL Geospatial Collaborative
 
 ## Acknowledgment
