@@ -146,6 +146,14 @@ UMSL Geospatial Collaborative
 
 This work was conducted through the UMSL Geospatial Collaborative as part of a Summer 2026 GeoAI research project.
 
+## Citation
+
+If you use or build upon this project, please cite:
+
+Garza, I. & Javid, M., & Amer, R. (2026). *Missouri Wildfire Susceptibility Prediction
+Using Geospatial Machine Learning*. UMSL Geospatial Collaborative.
+GitHub repository.
+
 ## License
 
 This project is released under the MIT License. See `LICENSE` for details.
