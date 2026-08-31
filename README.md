@@ -8,6 +8,22 @@ This project develops a geospatial machine-learning framework for identifying ar
 
 The primary analysis uses a Random Forest classifier to estimate wildfire susceptibility and spatial block cross-validation to evaluate geographic generalizability. A secondary XGBoost regression model explores prediction of historical wildfire counts. Model-derived susceptibility is further combined with WUI exposure and social vulnerability to construct a Community Wildfire Risk Index.
 
+## Wildfire Susceptibility
+
+The Random Forest model identifies geographic variation in wildfire
+susceptibility across Missouri using environmental, climatic, infrastructure,
+and population-related predictors.
+
+<p align="center">
+  <img src="figures/wildfire_susceptibility.png"
+       alt="Missouri wildfire susceptibility map"
+       width="750">
+</p>
+
+<p align="center">
+  <em>Random Forest wildfire susceptibility across Missouri's 5 km × 5 km analysis grid.</em>
+</p>
+
 ## Study Area
 
 The study covers the state of Missouri using a 5 km × 5 km analysis grid. Historical wildfire occurrences from 1992–2020 were aggregated to grid cells and integrated with environmental, climatic, infrastructure, and population-related predictors.
