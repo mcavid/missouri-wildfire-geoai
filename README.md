@@ -60,7 +60,7 @@ Five-fold 50 km spatial block cross-validation produced ROC-AUC values of approx
        width="650">
 </p>
 
-The results indicate that the framework is more suitable for identifying areas of elevated wildfire susceptibility than for predicting exact wildfire counts.
+The results indicate that the framework is more suitable for identifying areas of relative elevated wildfire susceptibility than for predicting exact wildfire counts.
 
 ## Community Wildfire Risk
 
